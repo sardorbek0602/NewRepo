@@ -292,4 +292,11 @@
 .novo img {
   width: 1000px;
   height: 300px;
+}
+
+.disc1 button {
+  border-radius: 30px;
+  width: 70px;
+  height: 30px;
+  margin-left: -80px;
 }/*# sourceMappingURL=style.css.map */
